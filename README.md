@@ -25,7 +25,7 @@
 ---
 
 ## 📝 Blog & Open Source
-- Tech Blog: [https://tech-blog.example.com](https://tech-blog.example.com)  
+- Tech Blog: [[https://tech-blog.example.com](https://tech-blog.example.com) ](https://develop-tracking.tistory.com/) 
 - 🔥Open-source🔥: 
   - Passionate about contributing to open-source ecosystems
   - Currently diving into open-source collaboration

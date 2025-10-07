@@ -35,15 +35,7 @@
 
 ## 📌 Developer Lifestyle & GitHub Activity
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iohyeon)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iohyeon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-### ⏰ Productivity (Morning vs Night Commits)
-<!-- Replace with your own gist URL -->
-[![productive-box](https://github.com/imnahyeon/imnahyeon/blob/master/assets/productive-box.svg)](https://github.com/imnahyeon/productive-box)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iohyeon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iohyeon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### 📊 GitHub Stats Overview
-<!-- Replace with your own gist URL -->
-[![github-stats-box](https://github.com/imnahyeon/imnahyeon/blob/master/assets/github-stats-box.svg)](https://github.com/imnahyeon/github-stats-box)
 

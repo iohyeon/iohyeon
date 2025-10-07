@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nahyeon Lim — a Backend Developer who loves building reliable systems!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E9CF7&width=500&lines=Backend+Developer;Java+%26+Spring+Expert;Open+Source+Contributor;Always+learning+%26+sharing)](https://git.io/typing-svg)
-
+ 
 ---
 
 ## 👨‍💻 About Me

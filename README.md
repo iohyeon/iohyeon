@@ -36,6 +36,7 @@
 ## 📌 Developer Lifestyle & GitHub Activity
 
 ### ⏰ Productivity (Morning vs Night Commits)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iohyeon)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Replace with your own gist URL -->
 [![productive-box](https://github.com/imnahyeon/imnahyeon/blob/master/assets/productive-box.svg)](https://github.com/imnahyeon/productive-box)
 

@@ -36,6 +36,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iohyeon)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iohyeon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ullala)](https://solved.ac/ullala)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ullala)](https://solved.ac/ullala/)
 

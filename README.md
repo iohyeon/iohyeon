@@ -1,40 +1,55 @@
-# 👋 Hi there, I'm Nahyeon Lim — a Backend Developer who loves building reliable systems!
+<h1 align="center">Nahyeon Lim</h1>
+<p align="center">Backend Developer</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E9CF7&width=500&lines=Backend+Developer;Java+%26+Spring+Expert;Open+Source+Contributor;Always+learning+%26+sharing)](https://git.io/typing-svg)
- 
----
+<p align="center">
+  <a href="https://develop-tracking.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" alt="Tech Blog"></a>
+  <a href="https://www.linkedin.com/in/na-hyeon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:iohyeonsz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-## 👨‍💻 About Me
-- Backend Developer with **5 years of professional experience**  
-- Strong expertise in **large-scale data processing, distributed messaging, and real-time synchronization**  
-- Specialized in **Java / Spring Boot / PostgreSQL / Redis / Kafka** for backend architecture and optimization  
-- Passionate about **open-source contributions and technical blogging**, sharing knowledge with the developer community  
+## 🔭 Intro
 
----
+요청이 몰리거나 중간에 실패해도 데이터가 어긋나지 않는 서버에 관심이 많습니다.
 
-## ⚡ Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## ⚡ Stack
 
----
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,kafka,rabbitmq,redis&perline=6" alt="Stack">
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,elasticsearch,docker,kubernetes&perline=6" alt="Stack">
 
-## 📝 Blog & Open Source
-- Tech Blog: [https://develop-tracking.tistory.com/](https://develop-tracking.tistory.com/) 
-- 🔥Open-source🔥: 
-  - Passionate about contributing to open-source ecosystems
-  - Currently diving into open-source collaboration
-  - Exploring challenges in open-source projects to contribute
+## 📦 Projects
 
----
+| | | |
+|---|---|---|
+| **[payment-anomaly-platform](https://github.com/iohyeon/payment-anomaly-platform)** | 결제 기록에서 이상 패턴을 찾아 점수를 매기고, 높은 건만 따로 빼내는 구조 | `Spring Boot` `Kafka` `Outbox` `SKIP LOCKED` |
+| **[llm-gateway](https://github.com/iohyeon/llm-gateway)** | 흩어진 LLM 호출을 한 군데로 모아 사용량과 비용을 같이 보는 중계 서버 | `Kotlin` `헥사고날` `WebFlux SSE` `BPE` |
+| **[hallucination-guard](https://github.com/iohyeon/hallucination-guard)** | LLM이 지어낸 답을 코드로 걸러보는 다단계 검사 파이프라인 | `Go` `인용 검증` `LLM-as-judge` |
+| **[rag-qa-service](https://github.com/iohyeon/rag-qa-service)** | 문서를 찾아 답하고, 붙은 출처가 실제로 있는지 확인하는 QA 서비스 | `Go` `pgvector` `임베딩 사이드카` |
+| **[kafka-pipeline-lab](https://github.com/iohyeon/kafka-pipeline-lab)** | 유실과 중복 상황을 일부러 만들어보고 부하테스트로 재본 실습 | `Kafka KRaft` `Debezium` `k6` |
+| **[saga-microservices-lab](https://github.com/iohyeon/saga-microservices-lab)** | 여러 서비스를 거치는 작업이 중간에 실패했을 때 되돌리는 실험 | `Java 21` `Saga` `Testcontainers` |
 
-## 📌 Developer Lifestyle & GitHub Activity
+## 📐 설계 기록
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iohyeon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iohyeon&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ullala)](https://solved.ac/ullala/)-->
+- [Outbox Relay 트레이드오프: 동기 Polling을 고른 이유](https://github.com/iohyeon/kafka-pipeline-lab/blob/main/docs/Outbox%20Relay%20%EC%B5%9C%EC%A2%85%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EC%98%A4%ED%94%84%20%E2%80%94%20%EB%8F%99%EA%B8%B0%20Polling%EC%9D%B4%20%EB%A7%9E%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [부하테스트 실측 결과와 병목 분석](https://github.com/iohyeon/kafka-pipeline-lab/blob/main/docs/%EC%8B%AC%ED%99%94%20%E2%80%94%20%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%8B%A4%EC%B8%A1%20%EA%B2%B0%EA%B3%BC%20%2B%20%EB%B3%91%EB%AA%A9%20%EB%B6%84%EC%84%9D.md)
+- [설계 결정 기록 6건](https://github.com/iohyeon/payment-anomaly-platform/tree/main/docs/decisions)
 
+## 📚 Study
+
+**루프팩 BE L2** &nbsp;주차별 과제를 PR로 제출하고 멘토 코드리뷰를 받는 백엔드 심화 과정
+
+[![vol3](https://img.shields.io/badge/vol3--java-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/iohyeon/loop-pack-be-l2-vol3-java)
+[![vol2-java](https://img.shields.io/badge/vol2--java-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/iohyeon/loop-pack-be-l2-vol2-java)
+[![vol2-kotlin](https://img.shields.io/badge/vol2--kotlin-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/iohyeon/loop-pack-be-l2-vol2-kotlin)
+[![coding-test](https://img.shields.io/badge/coding--test--challenge2-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/iohyeon/loopers-coding-test-challenge2)
+
+**북스터디와 랩**
+
+[![system-design](https://img.shields.io/badge/system--design--study-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/iohyeon/system-design-study)
+[![dev-book](https://img.shields.io/badge/dev--book--study-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/iohyeon/dev-book-study)
+[![spring-diy](https://img.shields.io/badge/spring--diy--1-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/iohyeon/spring-diy-1)
+[![kafka-eda](https://img.shields.io/badge/kafka--eda--lab-2b3137?style=flat-square&logo=github&logoColor=white)](https://github.com/iohyeon/kafka-eda-lab)
+
+## 📊 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iohyeon&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%">

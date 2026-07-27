@@ -9,7 +9,11 @@
 
 ## 🔭 Intro
 
-요청이 몰리거나 중간에 실패해도 데이터가 어긋나지 않는 서버에 관심이 많습니다.
+요청이 몰리고 작업이 중간에 실패해도, 데이터가 어긋나지 않고 다시 복구할 수 있는 서버를 만듭니다.
+
+- 결제·정산 시스템의 데이터 정합성과 상태 전이를 설계합니다.
+- 비동기 파이프라인의 중복, 유실, 재처리 시나리오를 검증합니다.
+- 성능과 AI 응답 품질을 감각이 아닌 측정과 자동화된 검증으로 확인합니다.
 
 ## ⚡ Stack
 
@@ -19,7 +23,7 @@
 
 ## 📦 Projects
 
-| | | |
+| Repository | 무엇을 만들었나 | 스택 |
 |---|---|---|
 | **[payment-anomaly-platform](https://github.com/iohyeon/payment-anomaly-platform)** | 결제 기록에서 이상 패턴을 찾아 점수를 매기고, 높은 건만 따로 빼내는 구조 | `Spring Boot` `Kafka` `Outbox` `SKIP LOCKED` |
 | **[llm-gateway](https://github.com/iohyeon/llm-gateway)** | 흩어진 LLM 호출을 한 군데로 모아 사용량과 비용을 같이 보는 중계 서버 | `Kotlin` `헥사고날` `WebFlux SSE` `BPE` |

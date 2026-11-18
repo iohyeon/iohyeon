@@ -10,10 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://develop-tracking.tistory.com/rss"
-          max_post_count: 5
-          commit_message: "docs: 최근 블로그 글 목록 갱신"
-          committer_username: "HYEON"
-          committer_email: "iohyeonsz@gmail.com"
+      - run: python3 .github/scripts/update_blog_posts.py
+      - name: 바뀐 경우에만 커밋
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "HYEON"
+          git config user.email "iohyeonsz@gmail.com"
+          git commit -am "docs: 최근 블로그 글 목록 갱신"
+          git push

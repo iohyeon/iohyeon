@@ -56,11 +56,11 @@
 ## 최근 블로그 글
 
 <!-- BLOG-POST-LIST:START -->
+- [옵티마이저는 무엇을 보고 스캔과 조인을 고를까: PostgreSQL에서 통계와 인덱스를 바꿔 가며 확인하기](https://develop-tracking.tistory.com/entry/%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EB%B3%B4%EA%B3%A0-%EC%8A%A4%EC%BA%94%EA%B3%BC-%EC%A1%B0%EC%9D%B8%EC%9D%84-%EA%B3%A0%EB%A5%BC%EA%B9%8C-PostgreSQL%EC%97%90%EC%84%9C-%ED%86%B5%EA%B3%84%EC%99%80-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC-%EB%B0%94%EA%BF%94-%EA%B0%80%EB%A9%B0-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 - [없던 행이 생기는 경쟁은 행 잠금으로 막히는가: PostgreSQL에서 12가지로 재현하기](https://develop-tracking.tistory.com/entry/%EC%97%86%EB%8D%98-%ED%96%89%EC%9D%B4-%EC%83%9D%EA%B8%B0%EB%8A%94-%EA%B2%BD%EC%9F%81%EC%9D%80-%ED%96%89-%EC%9E%A0%EA%B8%88%EC%9C%BC%EB%A1%9C-%EB%A7%89%ED%9E%88%EB%8A%94%EA%B0%80-PostgreSQL%EC%97%90%EC%84%9C-12%EA%B0%80%EC%A7%80%EB%A1%9C-%EC%9E%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [가드를 지워도 통과하는 테스트: Mock 기본값, SQL 문장 검사, AI가 쓴 테스트](https://develop-tracking.tistory.com/entry/%EA%B0%80%EB%93%9C%EB%A5%BC-%EC%A7%80%EC%9B%8C%EB%8F%84-%ED%86%B5%EA%B3%BC%ED%95%98%EB%8A%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-Mock-%EA%B8%B0%EB%B3%B8%EA%B0%92-SQL-%EB%AC%B8%EC%9E%A5-%EA%B2%80%EC%82%AC-AI%EA%B0%80-%EC%93%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 - [\[대규모 시스템 설계 스터디\] 유튜브 설계를 숫자로 다시 보기: 전달 비용, 처리 조각, 세그먼트, CDN 채우기](https://develop-tracking.tistory.com/entry/%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%84%A4%EA%B3%84%EB%A5%BC-%EC%88%AB%EC%9E%90%EB%A1%9C-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EA%B8%B0-%EC%A0%84%EB%8B%AC-%EB%B9%84%EC%9A%A9-%EC%B2%98%EB%A6%AC-%EC%A1%B0%EA%B0%81-%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-CDN-%EC%B1%84%EC%9A%B0%EA%B8%B0)
 - [병렬 AI 세션 운영 회고: 조율 문서는 늘고 결과물은 없었다](https://develop-tracking.tistory.com/entry/%EB%B3%91%EB%A0%AC-AI-%EC%84%B8%EC%85%98-%EC%9A%B4%EC%98%81-%ED%9A%8C%EA%B3%A0-%EC%A1%B0%EC%9C%A8-%EB%AC%B8%EC%84%9C%EB%8A%94-%EB%8A%98%EA%B3%A0-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%80-%EC%97%86%EC%97%88%EB%8B%A4)
-- [커맨드센터: 여러 AI 세션의 상태와 승인을 한 화면에서 보기](https://develop-tracking.tistory.com/entry/%EC%BB%A4%EB%A7%A8%EB%93%9C%EC%84%BC%ED%84%B0-%EC%97%AC%EB%9F%AC-AI-%EC%84%B8%EC%85%98%EC%9D%98-%EC%83%81%ED%83%9C%EC%99%80-%EC%8A%B9%EC%9D%B8%EC%9D%84-%ED%95%9C-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EB%B3%B4%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 [전체 글 보기](https://develop-tracking.tistory.com/)
